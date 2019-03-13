@@ -1,4 +1,5 @@
 Python Implementation of basic supervised learning algorithms. 
+
 The algorithms were used on breast cancer dataset for predicting cancer.
 
 Following Algorithms are implemented from scratch:
